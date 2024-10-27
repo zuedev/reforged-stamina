@@ -1,0 +1,11 @@
+SCR_ChimeraCharacter : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_Army/Character_US_Rifleman.et" {
+ ID "5242B7AE16596FB8"
+ components {
+  SCR_CharacterStaminaComponent "{520EA1D2F659C824}" {
+   StaminaRegainPerS 0.1
+   StaminaDrainRun -0.001
+   StaminaDrainSprint -0.001
+   EncumbranceDrainMax -0.001
+  }
+ }
+}
