@@ -1,0 +1,8 @@
+GameProject {
+ ID "ReforgedStamina"
+ GUID "62B6F505ACC45D2F"
+ TITLE "ReforgedStamina"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
